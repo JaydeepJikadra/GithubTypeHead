@@ -1,6 +1,6 @@
 # GithubTypeHead
 
-![Badge](https://img.shields.io/badge/ReactNative-GithubTypeHead-blue)
+![Badge](https://img.shields.io/badge/React-GithubTypeHead-blue)
 
 GithubTypeHead is a react app can search user based on UserName.
 
